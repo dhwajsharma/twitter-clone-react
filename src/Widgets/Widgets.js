@@ -1,11 +1,14 @@
 import React from 'react';
 import "./Widgets.css"
+<<<<<<< HEAD
 import {
     TwitterTimelineEmbed,
     TwitterShareButton,
     TwitterTweetEmbed,
 } from "react-twitter-embed";
 import SearchIcon from "@material-ui/icons/Search";
+=======
+>>>>>>> a3252e72656b06c108352e701336cdaf101da42d
 
 const Widgets = () => {
     return (
