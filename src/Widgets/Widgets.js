@@ -16,14 +16,14 @@ const Widgets = () => {
             </div>
             <div className="widgets_widgetContainer">
                 <h2>What's happening?</h2>
-                <TwitterTweetEmbed tweetId={"2F1363132323651342338"} />
+                <TwitterTweetEmbed tweetId={"1341072021099327489"} />
                 <TwitterTimelineEmbed
                     sourceType="profile"
-                    screenName="joe_jag"
+                    screenName="reactjs"
                     options={{ height: 400 }}
                 />
                 <TwitterShareButton
-                    options={{ text: "#reactjs is awesome", via: "joe_jag" }}
+                    options={{ text: "#reactjs is awesome", via: "dhwajsharmaa" }}
                 />
             </div>
         </div>
