@@ -1,7 +1,7 @@
 import './App.css';
-import Feed from './Feed/Feed';
-import Sidebar from './Sidebar/Sidebar';
-import Widgets from './Widgets/Widgets';
+import Feed from './components/Feed/Feed';
+import Sidebar from './components/Sidebar/Sidebar';
+import Widgets from './components/Widgets/Widgets';
 
 function App() {
   return (
