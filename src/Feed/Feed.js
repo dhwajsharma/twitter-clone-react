@@ -32,14 +32,6 @@ const Feed = () => {
                     image={post.image}
                 />
             ))}
-
-
-            <Post />
-            <Post />
-            <Post />
-            <Post />
-
-
         </div >
     )
 }
